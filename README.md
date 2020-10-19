@@ -1,6 +1,7 @@
 # Implement EventStore
 
 This is my implementation of Intelie Event Store challenge.
+https://github.com/intelie/challenge-eventstore
 
 ### Design choices
  
