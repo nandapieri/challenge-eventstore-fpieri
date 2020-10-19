@@ -3,7 +3,7 @@
 This is my implementation of Intelie Event Store challenge.
 https://github.com/intelie/challenge-eventstore
 
-### Design choices
+## Design choices
  
 To implement this challenge I’ve chosen to use a ConcurrentLinkedQueue because I found that it was the data structure that would bring the application the best relation between costs and benefits, as explained below. 
 
